@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Shaik Hura Parveen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sales Analysis Dashboard (Power BI)
 
-<!---
-orange-090604/orange-090604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This project presents an interactive Sales Analysis Dashboard built using Power BI.
+
+## KPIs Included
+- Total Sales
+- Total Profit
+- Total Discount
+- Sales by Segment
+- Sales Trend by Order Date
+- Sales by Sub-Category
+- Sales by Region and State
+
+## Tools Used
+- Power BI Desktop
+- DAX
+- Data Cleaning & Modeling
